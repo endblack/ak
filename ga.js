@@ -1,0 +1,1 @@
+'https://api.imgbb.com/1/upload?expiration=3600&key=9160c6f659aba43c808df28f130d67cc&name=megah-chan'
